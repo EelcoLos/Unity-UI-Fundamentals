@@ -2,8 +2,6 @@
 * VolumeValue.cs get the value of the slider to set for volume
 * Author:  Lisa Walkosz-Migliacio  http://evilisa.com  12/18/2018
 */
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
