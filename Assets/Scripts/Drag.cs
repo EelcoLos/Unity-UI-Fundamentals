@@ -2,10 +2,7 @@
  * Drag.cs Move around object on the Canvas
  * Author:  Lisa Walkosz-Migliacio  http://evilisa.com  11/28/2018
  */
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.EventSystems;
 
 public class Drag : MonoBehaviour {
 

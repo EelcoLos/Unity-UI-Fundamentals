@@ -2,7 +2,6 @@
  * goOffscreen.cs Set animator boolean to false when invoked
  * Author:  Lisa Walkosz-Migliacio  http://evilisa.com  11/28/2018
  */
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
